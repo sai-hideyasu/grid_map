@@ -19,6 +19,8 @@
 
 #include <rclcpp/rclcpp.hpp>
 
+#include <pcl/common/io.h>
+
 #include "grid_map_core/GridMapMath.hpp"
 #include "grid_map_pcl/GridMapPclLoader.hpp"
 #include "grid_map_pcl/helpers.hpp"
